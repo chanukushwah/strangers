@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540389923575",
+    "project_id": "strangers-dda9e",
+    "storage_bucket": "strangers-dda9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540389923575:android:10ab23a64b57e033fa91f2",
+        "android_client_info": {
+          "package_name": "com.example.strangers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540389923575-v93t8htsovtuqa5uaem38pmu3fqer1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqieQ1Bl63P1dp0yAFGlTxsAIMLD2Hku0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540389923575-v93t8htsovtuqa5uaem38pmu3fqer1tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
